@@ -1,0 +1,17 @@
+ZZZZZZZZZZZZZZZZZZZEEEEEEEEEEEEEEEEEEEEEEUUUUUUUU     UUUUUUUU   SSSSSSSSSSSSSSS
+Z:::::::::::::::::ZE::::::::::::::::::::EU::::::U     U::::::U SS:::::::::::::::S
+Z:::::::::::::::::ZE::::::::::::::::::::EU::::::U     U::::::US:::::SSSSSS::::::S
+Z:::ZZZZZZZZ:::::Z EE::::::EEEEEEEEE::::EUU:::::U     U:::::UUS:::::S     SSSSSSS
+ZZZZZ     Z:::::Z    E:::::E       EEEEEE U:::::U     U:::::U S:::::S
+        Z:::::Z      E:::::E              U:::::D     D:::::U S:::::S
+       Z:::::Z       E::::::EEEEEEEEEE    U:::::D     D:::::U  S::::SSSS
+      Z:::::Z        E:::::::::::::::E    U:::::D     D:::::U   SS::::::SSSSS
+     Z:::::Z         E:::::::::::::::E    U:::::D     D:::::U     SSS::::::::SS
+    Z:::::Z          E::::::EEEEEEEEEE    U:::::D     D:::::U        SSSSSS::::S
+   Z:::::Z           E:::::E              U:::::D     D:::::U             S:::::S
+ZZZ:::::Z     ZZZZZ  E:::::E       EEEEEE U::::::U   U::::::U             S:::::S
+Z::::::ZZZZZZZZ:::ZEE::::::EEEEEEEE:::::E U:::::::UUU:::::::U SSSSSSS     S:::::S
+Z:::::::::::::::::ZE::::::::::::::::::::E  UU:::::::::::::UU  S::::::SSSSSS:::::S
+Z:::::::::::::::::ZE::::::::::::::::::::E    UU:::::::::UU    S:::::::::::::::SS
+ZZZZZZZZZZZZZZZZZZZEEEEEEEEEEEEEEEEEEEEEE      UUUUUUUUU       SSSSSSSSSSSSSSS
+by Pawel Szpunar v1
